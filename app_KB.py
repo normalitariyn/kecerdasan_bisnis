@@ -401,11 +401,11 @@ if selected == "Referensi":
     st.markdown("3. Normalita Eka Ariyanti (200411100084)", unsafe_allow_html=True)
     st.markdown("4. Aisyatur Radiah (200411100116) ", unsafe_allow_html=True)
     st.markdown(
-        "<h1 style='font-size:15px;text-align: left; color: black;'>Mata Kuliah : Machine Learning - B</h1>",
+        "<h1 style='font-size:15px;text-align: left; color: black;'>Mata Kuliah : Kecerdasan Bisnis B</h1>",
         unsafe_allow_html=True,
     )
     st.markdown(
-        "<h1 style='font-size:15px;text-align: left; color: black;'>Dosen Pengampu : Cucun Very Angkoso, S.T., M.T.</h1>",
+        "<h1 style='font-size:15px;text-align: left; color: black;'>Dosen Pengampu : Shofia Hardi, S.Kom., M.T.</h1>",
         unsafe_allow_html=True,
     )
 
